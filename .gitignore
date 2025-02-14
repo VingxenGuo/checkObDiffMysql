@@ -1,0 +1,19 @@
+# 設定檔（包含敏感資訊）
+setting.config
+
+# 輸出資料夾
+diff_*/
+
+# Python 相關
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 相關
+.vscode/
+.idea/
+*.swp
+
+# 系統檔案
+.DS_Store
+Thumbs.db
