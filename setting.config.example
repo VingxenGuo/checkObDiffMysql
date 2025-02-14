@@ -1,1 +1,16 @@
- 
+[check]
+check_ob = table
+
+[db_a]
+db_name = database1
+host = localhost
+port = 3306
+user = your_username
+password = your_password
+
+[db_b]
+db_name = database2
+host = localhost
+port = 3306
+user = your_username
+password = your_password 
